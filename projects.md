@@ -12,17 +12,17 @@ Tools: Python, Pandas Streamlit, Data Visualization
 
 An interactive dashboard built to explore vehicle data through visualizations and user interaction.
 
-Live Demo: Coming Soon
-Github: Coming Soon
+Live Demo: [View Live App]()
+Github: [View Project]()
 
 
 
 
 
-Project2
-Tools: Coming Soon
-
-Project description coming soon.
+Project 2 - Customer Churn Prediction
+Tools: Python, Pandas, Scikit-learn, LightGBM, Machine Learning
+Developed an end-to-end machine learning solution to predict customer churn and identify customers at increased risk of leaving, supporting data-driven customer retention decisions
+GitHub: [View Project](Customer-Churn-Prediction/)
 
 
 
