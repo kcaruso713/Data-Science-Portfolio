@@ -41,11 +41,13 @@ GitHub: [View Project](Oil-Well-Region-Profitability/)
 
 
 
-## Project4
+## Project 4 - Sweet Lift Taxi Demand Forecasting
 
-Tools: Coming Soon
+Tools: Python, Pandas, NumPy, Scikit-learn, Time Series Analysis
 
-Project description coming soon.
+Developed a time series forecasting model for Sweet Lift Taxi Company to predict the number of taxi orders for the next hour, using historical demand patterns and engineered time-based features to support driver allocation and demand planning. 
+
+GitHub: [View Project](Sweet-Lift-Taxi-Demand-Forecasting/)
 
 
 
