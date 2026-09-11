@@ -1,4 +1,4 @@
-## Featured Projects 
+# Featured Projects 
 
 
 This portfolio showcases selected data science and analytics projects demonstrating my growth in data analysis, visualization, machine learning, and application development.
@@ -6,7 +6,7 @@ This portfolio showcases selected data science and analytics projects demonstrat
 
 
 
-# Project 1 - Interactive Vehicle Data Dashboard
+## Project 1 - Interactive Vehicle Data Dashboard
 
 Tools: Python, Pandas Streamlit, Data Visualization
 
@@ -19,7 +19,7 @@ Github: [View Project](https://github.com/kcaruso713/sprint4/blob/main/app.py)
 
 
 
-# Project 2 
+## Project 2 
 
 Tools: 
 
@@ -27,7 +27,7 @@ Tools:
 
 
 
-# Project 3
+## Project 3
 Tools: Coming Soon
 
 Project description coming soon.
@@ -35,16 +35,7 @@ Project description coming soon.
 
 
 
-# Project4
-
-Tools: Coming Soon
-
-Project description coming soon.
-
-
-
-
-# Project 5
+## Project4
 
 Tools: Coming Soon
 
@@ -53,7 +44,16 @@ Project description coming soon.
 
 
 
-# Project 6 - Customer Churn Prediction
+## Project 5
+
+Tools: Coming Soon
+
+Project description coming soon.
+
+
+
+
+## Project 6 - Customer Churn Prediction
 
 Tools: Python, Pandas, Scikit-learn, LightGBM, Machine Learning
 
