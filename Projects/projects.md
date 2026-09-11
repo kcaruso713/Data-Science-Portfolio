@@ -6,7 +6,7 @@ This portfolio showcases selected data science and analytics projects demonstrat
 
 
 
-## Project 1 - Interactive Vehicle Data Dashboard
+## Project 1 - Vehicle Market Data Explorer
 
 Tools: Python, Pandas Streamlit, Data Visualization
 
@@ -19,9 +19,13 @@ Github: [View Project](https://github.com/kcaruso713/sprint4/blob/main/app.py)
 
 
 
-## Project 2 
+## Project 2 - Chicago Taxi Data Analysis
 
-Tools: 
+Tools: SQL, Python, Pandas, Matplotlib
+
+Analyzed Chicago taxi trip data to identify leading taxi companies and the most popular drop-off neighborhoods. Used SQL for data collection and analysis, then Python and data visualization to explore ride patterns and communicate key findings.
+
+GitHub: [View Project](Chicago-Taxi-Data-Analysis/)
 
 
 
