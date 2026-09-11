@@ -31,11 +31,13 @@ GitHub: [View Project](Chicago-Taxi-Data-Analysis/)
 
 
 
-## Project 3
-Tools: Coming Soon
+## Project 3 - Oil Well Region Profitability Analysis
 
-Project description coming soon.
+Tools: Python, Pandas, NumPy, Scikit-learn, Linear Regression
 
+Built linear regression models to predict oil reserves across three regions and used the resulting predictions to evaluate, development opportunities, profitability, and investment risk.
+
+GitHub: [View Project](Oil-Well-Region-Profitability/)
 
 
 
