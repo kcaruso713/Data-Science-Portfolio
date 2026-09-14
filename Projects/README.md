@@ -52,11 +52,13 @@ GitHub: [View Project](Sweet-Lift-Taxi-Demand-Forecasting/)
 
 
 
-## Project 5
+## Project 5 - Film Junkie Union Analysis
 
-Tools: Coming Soon
+Tools: Python, Pandas, NumPy, Scikit-learn, NLTK, NLP, TF-IDF, Logistic Regression
 
-Project description coming soon.
+Built a machine learning model to classify IMDb movie reviews as positive or negative using natural language processing and text classification techniques.
+
+GitHub: [View Project](Film-Junkie-Union-Analysis/)
 
 
 
